@@ -22,5 +22,5 @@ m.reply(response.data.choices[0].text)
     }
 handler.help = ['openai']
 handler.tags = ['fun']
- handler.command = /^(yus|ai|openai)$/i
+ handler.command = /^(x|ai|openai)$/i
 export default handler
