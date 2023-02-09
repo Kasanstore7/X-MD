@@ -1,7 +1,7 @@
 {
-    "name": "AL",
-    "version": "3.0.0",
-    "description": "WhatsApp BOT By Aldi",
+    "name": "X-MD",
+    "version": "2.0.0",
+    "description": "Simple Whatsapp bot by Khasan",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -23,20 +23,20 @@
         "yushinomd",
         "aldi"
     ],
-    "homepage": "https://github.com/Aldi-Ganz-Offc",
+    "homepage": "https://github.com/Kasantore7",
     "author": {
-        "name": "Aldi"
+        "name": "Kasanstore7"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Aldi-Ganz-Offc"
+        "url": "git+https://github.com/Kasanstore7"
     },
     "bugs": {
-        "url": "https://github.com/Aldi-Ganz-Offc"
+        "url": "https://github.com/Kasanstore7"
     },
   "license": "ISC",
   "dependencies": {
-    "@adiwajshing/baileys": "github:Aldi-Ganz-Offc/baileys",
+    "@adiwajshing/baileys": "github:hostinget-bot/baileys",
         "@bochilteam/scraper": "^4.0.22-alpha.0",
         "@vitalets/google-translate-api": "^8.0.0",
         "awesome-phonenumber": "^2.68.0",
