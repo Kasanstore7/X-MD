@@ -1,4 +1,4 @@
-console.log('🕖 Starting...')
+console.log('🕖 Menyalakan Bot...')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
@@ -16,12 +16,12 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('ALOffc', {
+say('Khasan', {
   font: 'chrome',
   align: 'center',
   colors: ['blue', 'magenta']
 })
-say(` Yushino Md V3`, { 
+say(`X-MD`, { 
   font: 'console',
   align: 'center',
   colors: ['green', 'magenta']
